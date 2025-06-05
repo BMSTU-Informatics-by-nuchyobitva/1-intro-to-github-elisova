@@ -3,4 +3,6 @@
 
 изменила ридме
 
+ссылка на другой репозиторий: https://github.com/BMSTU-Informatics-by-nuchyobitva/4-binary-search-tree-elisova (надеюсь классрум можно)
+
 ![изображение](https://github.com/user-attachments/assets/a3dafe9d-1a23-416e-9c89-b06b705caf16)
